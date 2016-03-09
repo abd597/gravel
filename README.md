@@ -18,6 +18,5 @@ RSS (jQuery Live Search on an RSS Feed (http://codepen.io/html5andblog/pen/OVBJY
 *1.1
 - create "generic website layout" template
 - create flexbox option
-- 
 
 *unreleased, in development
