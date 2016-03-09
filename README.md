@@ -8,3 +8,16 @@ Google Fonts
 jQuery UI  
 Moment.js  
 RSS (jQuery Live Search on an RSS Feed (http://codepen.io/html5andblog/pen/OVBJYa))  
+
+###Version History
+
+1.0
+- added to github
+- added "foundational" code
+
+*1.1
+- create "generic website layout" template
+- create flexbox option
+- 
+
+*unreleased, in development
